@@ -7,6 +7,8 @@
 This simple Maven project is importing JaCoCo's coverage report. For multi-module project example 
 see [multi-module Maven project](../maven-multimodule/README.md)
 
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-orange.svg)](https://sonarcloud.io/summary/new_code?id=Akashec1007_maven-basic-github)
+
 ## Usage
 
 * Build the project, execute all the tests and analyze the project with SonarQube Scanner for Maven(from root  of the project):
