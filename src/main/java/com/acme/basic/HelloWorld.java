@@ -9,12 +9,8 @@ public class HelloWorld {
   void notCovered() {
     System.out.println("This method is not covered by unit tests");
   }
-
-  if (true){
+ System.out.println("This method is not covered by unit tests");
    System.out.println("This method is not covered by unit tests");
-  } else if (false){
-     System.out.println("This method is not covered by unit tests");
-  } else {
-     System.out.println("This method is not covered by unit tests");
-  }
+   System.out.println("This method is not covered by unit tests");
+   System.out.println("This method is not covered by unit tests");
 }
